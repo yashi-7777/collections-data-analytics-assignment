@@ -1,0 +1,4 @@
+-- Counterfactual design only: implementation depends on warehouse and experiment assignment.
+-- Randomize eligible accounts into treatment/control within DPD/risk/client strata.
+-- Primary outcome: canonical recovery amount per eligible account within 7 days.
+-- Estimate treatment effect as mean(treatment)-mean(control), with cluster/strata-robust uncertainty.

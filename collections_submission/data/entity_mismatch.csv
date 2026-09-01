@@ -1,0 +1,11 @@
+dataset,borrower_mismatch,orphan_accounts
+calls,89939,1403
+call_attempts,118126,1863
+call_dispositions,34474,524
+whatsapp_events,59673,923
+sms_events,44262,733
+field_visits,24621,377
+promises_to_pay,17706,293
+payments,25113,386
+complaints,7892,107
+account_status_history,59035,962
